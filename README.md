@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+This is Syize, who is working on the next project... (Maybe another funny toy🦖!).
+
+I hope you can find something interesting in my repos.
+
+- 🐱A cute digital desktop pet? [Haro](https://github.com/Syize/coursework-a-table-pet-Haro)
+- 📑A Python library to help (me) research：[syize-toolkits](https://github.com/Syize/syize-toolkits)
+- 🌏Wanna to control network with Python? [Cpywpa](https://github.com/Syize/Cpywpa)
+
+
+
 <!--
 **Syize/Syize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
